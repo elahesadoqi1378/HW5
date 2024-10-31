@@ -1,0 +1,14 @@
+C:\Users\ARYA\source\repos\End_Hw_Week5\End_Hw_Week5\obj\Debug\net8.0\End_Hw_Week5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARYA\source\repos\End_Hw_Week5\End_Hw_Week5\obj\Debug\net8.0\End_Hw_Week5.AssemblyInfoInputs.cache
+C:\Users\ARYA\source\repos\End_Hw_Week5\End_Hw_Week5\obj\Debug\net8.0\End_Hw_Week5.AssemblyInfo.cs
+C:\Users\ARYA\source\repos\End_Hw_Week5\End_Hw_Week5\obj\Debug\net8.0\End_Hw_Week5.csproj.CoreCompileInputs.cache
+C:\Users\ARYA\source\repos\End_Hw_Week5\End_Hw_Week5\bin\Debug\net8.0\End_Hw_Week5.exe
+C:\Users\ARYA\source\repos\End_Hw_Week5\End_Hw_Week5\bin\Debug\net8.0\End_Hw_Week5.deps.json
+C:\Users\ARYA\source\repos\End_Hw_Week5\End_Hw_Week5\bin\Debug\net8.0\End_Hw_Week5.runtimeconfig.json
+C:\Users\ARYA\source\repos\End_Hw_Week5\End_Hw_Week5\bin\Debug\net8.0\End_Hw_Week5.dll
+C:\Users\ARYA\source\repos\End_Hw_Week5\End_Hw_Week5\bin\Debug\net8.0\End_Hw_Week5.pdb
+C:\Users\ARYA\source\repos\End_Hw_Week5\End_Hw_Week5\obj\Debug\net8.0\End_Hw_Week5.dll
+C:\Users\ARYA\source\repos\End_Hw_Week5\End_Hw_Week5\obj\Debug\net8.0\refint\End_Hw_Week5.dll
+C:\Users\ARYA\source\repos\End_Hw_Week5\End_Hw_Week5\obj\Debug\net8.0\End_Hw_Week5.pdb
+C:\Users\ARYA\source\repos\End_Hw_Week5\End_Hw_Week5\obj\Debug\net8.0\End_Hw_Week5.genruntimeconfig.cache
+C:\Users\ARYA\source\repos\End_Hw_Week5\End_Hw_Week5\obj\Debug\net8.0\ref\End_Hw_Week5.dll
